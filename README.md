@@ -1,7 +1,7 @@
-# README
-## template_rails7_bootstrap
+# Rails Templates
 
-### Rails 7.0.1, ruby 3.1.0 & bootstrap 5.1.3
+
+## Template with Rails 7.0.1, ruby 3.1.0, bootstrap 5.1.3, sass & javascript
 ```
 rails new project_name -d postgresql -j esbuild --css bootstrap
 cd project_name
