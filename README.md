@@ -6,6 +6,9 @@
 rails new project_name -d postgresql -j esbuild --css bootstrap
 cd project_name
 code .
+gem 'simple_form'
+bundle install
+rails generate simple_form:install --bootstrap
 ```
 
 ### To test this:
